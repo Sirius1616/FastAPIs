@@ -1,0 +1,13 @@
+Explain the following in depth
+
+name: Basic CI
+
+on: [push]
+
+jobs:
+  test-job:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Print message
+        run: echo "Hello John, CI is working"
