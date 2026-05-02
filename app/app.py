@@ -43,7 +43,7 @@ text_posts = {
     },
     10: {
         'title': 'Do Hard Things',
-        'content': 'One principle that stuck with me from ALX is simple: Do Hard Things. Growth doesn’t come from comfort. Taking on difficult challenges, failing, and learning from them is what drives real progress.'
+        'content': 'One principle that stuck with me from ALX is simple: Do Hard Things. Growth doesn’t come from comfort. Taking on difficult challenges, failing, and learning from them is what drives real progress. And real progress is the true progress'
     }
 }
 
